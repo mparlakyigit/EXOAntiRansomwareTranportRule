@@ -3,6 +3,11 @@ Dışarıdan gönderilen e-postalar üzerinden gelebilecek ransomware ataklar en
 
 ![Ransomware1](https://user-images.githubusercontent.com/53214224/161774054-77ca36f3-8748-4254-a8e9-e54b3a6732ca.png)
 
+- PowerShell betiğini çalıştırabilmek için öncelikle PowerShell uygulamanızı yönetici olarak çalıştırınız.
+- cd EXOAntiRansomwareTranportRule.ps1 dosyasının bulunduğu dizine geçiniz.
+- ./EXOAntiRansomwareTranportRule.ps1 şeklinde betiği çalıştırınız.
+- Sizden istenilen Office 365 Global admin yetkisi olan bir kullanıcı adı ve parolasını giriniz. (İlgili kullanıcının Exchange Administrator yetkisi olduğundan emin olunuz.)
+
 ![Ransomware2](https://user-images.githubusercontent.com/53214224/161774903-805bc720-c063-4e93-9b48-dd6bc804f373.png)
 
 
