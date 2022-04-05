@@ -1,4 +1,4 @@
-# EXOAntiRansomwareTranportRule
+# Exchange Online Anti Ransomware Tranport Rule
 Dışarıdan gönderilen e-postalar üzerinden gelebilecek ransomware ataklar engllenir.  (Sadece belirtilen uzantılarda bir e-posta geldiğinde mail  karantinaya alınır ve son kullanıcıya bildirim gider. IT departmanı e-postayı analiz ettikten sonra ilgili kullanıcıyı eposta iletebilir.
 
 ![Ransomware1](https://user-images.githubusercontent.com/53214224/161774054-77ca36f3-8748-4254-a8e9-e54b3a6732ca.png)
