@@ -1,5 +1,6 @@
 # Exchange Online Anti Ransomware Tranport Rule
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JfKGUSTJT24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=JfKGUSTJT24
 
 Dışarıdan gönderilen e-postalar üzerinden gelebilecek ransomware ataklar engllenir.  (Sadece belirtilen uzantılarda bir e-posta geldiğinde mail  karantinaya alınır ve son kullanıcıya bildirim gider. IT departmanı e-postayı analiz ettikten sonra ilgili kullanıcıyı eposta iletebilir.
 
